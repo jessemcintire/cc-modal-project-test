@@ -1,4 +1,6 @@
-# Todolist
+# This repo adds a modal for delete confirmation to the To-do list app created at https://github.com/gbosetti/todo-list-with-angular-6
+
+## Todolist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8. It is a To-do list application used as a demo for learning purposes. 
 
